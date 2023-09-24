@@ -1,13 +1,14 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title style="color: blue;">Content Manager</title>
-</head>
-<body>
-    <index>
-        
-    </index>
-</body>
-</html>
+<!-- pages/index.vue -->
+<template>
+    <div class="container">
+      <HeaderView />
+      <h2 style="margin-top: 15px">Catálogo de edificios más altos:</h2>
+       <p>This website offers information about the tallest buildings in the world.</p>
+       <ul>
+         <li> <NuxtLink to="/edificios_index">Edificio information</NuxtLink></li>
+         <li> <NuxtLink to="/ciudades_index">Ciudad information</NuxtLink></li>
+         <li> <NuxtLink to="/arquitectos_index">Arquitecto information</NuxtLink></li>
+       </ul>
+      <FooterView />
+    </div>
+   </template>
