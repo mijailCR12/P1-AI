@@ -6,10 +6,10 @@
     "module": true,
     "resourceType": "script"
   },
-  "C:/Users/mijail/Desktop/Arquitectura informatica/Tutoriales-Arquitectura-main/Tutoriales-Arquitectura-main/Tutorial_04/node_modules/nuxt/dist/app/entry": {
+  "C:/Users/mijail/Desktop/Arquitectura informatica/P1-AI/node_modules/nuxt/dist/app/entry": {
     "resourceType": "script",
     "isEntry": true,
-    "file": "C:/Users/mijail/Desktop/Arquitectura informatica/Tutoriales-Arquitectura-main/Tutoriales-Arquitectura-main/Tutorial_04/node_modules/nuxt/dist/app/entry",
+    "file": "C:/Users/mijail/Desktop/Arquitectura informatica/P1-AI/node_modules/nuxt/dist/app/entry",
     "module": true
   }
 }

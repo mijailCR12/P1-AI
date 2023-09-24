@@ -1,1 +1,1 @@
-export { default } from "file:///C:/Users/mijail/Desktop/Arquitectura%20informatica/Tutoriales-Arquitectura-main/Tutoriales-Arquitectura-main/Tutorial_04/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
+export { default } from "file:///C:/Users/mijail/Desktop/Arquitectura%20informatica/P1-AI/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
