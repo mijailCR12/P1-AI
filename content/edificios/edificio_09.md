@@ -1,0 +1,22 @@
+---
+id: edificio_09
+puesto: 9no
+nombre: Tianjin CTF Finance Centre
+altura: 
+    oficial: 530 m 	
+    antena: 530 m 	
+    ultimo_piso: 440 m 
+fechas_importantes:
+    Inicio:	2012
+    Construcción:	2019
+    Inauguración:	2017
+pisos: 97
+Coste: --
+Propietario: New World China Land
+ciudad: Tianjin
+ciudadId: ciudad_09
+arquitecto: Skidmore Owings & Merrill
+arquitectoId: arquitecto_07
+image: edificios/edificio_9.jpg
+---
+El Tianjin Chow Tai Fook Finance Centre es un rascacielos que se localiza en la ciudad de Tianjin, China. Con una altura de 530 m y 97 plantas, es el 2.do rascacielos más alto de Tianjin, superado únicamente por el Goldin Finance 117, de 597 m de altura. Se localiza en el Binhai New Area de Tianjin. 
